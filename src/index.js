@@ -148,7 +148,7 @@ async function fetchImages(query, page, perPage) {
   return response.data;
 }
 
-SmoothScroll({
+  SmoothScroll({
     animationTime: 800,
     stepSize: 75,
     accelerationDelta: 30,
@@ -159,4 +159,4 @@ SmoothScroll({
     pulseScale: 4,
     pulseNormalize: 1,
     touchpadSupport: true,
-  })
+  });
