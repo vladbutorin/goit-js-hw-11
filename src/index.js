@@ -40,7 +40,7 @@ function renderGallery(images) {
     .join('');
 
   gallery.insertAdjacentHTML('beforeend', markup);
-
+}
 function onSearchForm(e) {
   e.preventDefault();
   page = 1;
@@ -100,7 +100,7 @@ function onloadMore() {
             "We're sorry, but you've reached the end of search results.",
           );
         }
-        
+
       }
     })
     .catch(error => console.log(error));
@@ -148,15 +148,15 @@ async function fetchImages(query, page, perPage) {
   return response.data;
 }
 
-  SmoothScroll({
-    animationTime: 800,
-    stepSize: 75,
-    accelerationDelta: 30,
-    accelerationMax: 2,
-    keyboardSupport: true,
-    arrowScroll: 50,
-    pulseAlgorithm: true,
-    pulseScale: 4,
-    pulseNormalize: 1,
-    touchpadSupport: true,
-  });
+SmoothScroll({
+  animationTime: 800,
+  stepSize: 75,
+  accelerationDelta: 30,
+  accelerationMax: 2,
+  keyboardSupport: true,
+  arrowScroll: 50,
+  pulseAlgorithm: true,
+  pulseScale: 4,
+  pulseNormalize: 1,
+  touchpadSupport: true,
+})
