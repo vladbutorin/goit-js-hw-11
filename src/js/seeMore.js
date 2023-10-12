@@ -3,8 +3,8 @@ const { categoryContainerEl } = getRefs();
 
 import { fetchSelectedBooks } from './fetchSelectedBooks';
 import { renderBooksByCategory } from './renderSelectedCategory';
-// import { scrollToTop } from '../components/back-to-top';
-// import { renderMainTitle } from '../_shared/render-main-title';
+import { scrollToTop } from './back-to-top';
+import { renderMainTitle } from './render-main-title';
 
 
 categoryContainerEl.addEventListener('click', seeMoreBtnClickHandler);
