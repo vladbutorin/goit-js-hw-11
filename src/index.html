@@ -9,9 +9,19 @@
     <script type="module" src="./index.js"></script>
   </head>
   <body>
-    <!-- ❗️❗️❗️ Add partials like so for every page -->
-    <include src="./partials/example.html"></include>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js"
-    integrity="sha256-huW7yWl7tNfP7lGk46XE+Sp0nCotjzYodhVKlwaNeco=" crossorigin="anonymous"></script>
-  </body>
-</html>
+    
+     <div class="home-container">
+  <h2 class="main-title">
+    Best Seller
+    <span class="main-title--last-word-static">Books</span>
+  </h2>
+  <div class="content-rendering-container">
+    <!-- >>>>>>>> html inserted with bestsellers.js <<<<<<<< -->
+</div>
+</div>
+
+
+    <script type="module" src="./js/BestSeller.js/bestsellers.js"></script>
+    <script type="module" src="./js/BestSeller.js/fetchBooks.js"></script>
+    <script type="module" src="./js/BestSeller.js/seeMore.js"></script>
+</html> 
