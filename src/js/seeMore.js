@@ -1,10 +1,11 @@
-// import getRefs from '../refs';
+import getRefs from './refs';
 const { categoryContainerEl } = getRefs();
 
-// import { fetchSelectedBooks } from '../books-by-category/fetchSelectedBooks';
-// import { renderBooksByCategory } from '../books-by-category/renderSelectedCategory';
+import { fetchSelectedBooks } from './fetchSelectedBooks';
+import { renderBooksByCategory } from './renderSelectedCategory';
 // import { scrollToTop } from '../components/back-to-top';
 // import { renderMainTitle } from '../_shared/render-main-title';
+
 
 categoryContainerEl.addEventListener('click', seeMoreBtnClickHandler);
 
