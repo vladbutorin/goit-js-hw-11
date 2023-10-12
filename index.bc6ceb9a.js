@@ -1,2 +1,0 @@
-const{categoryContainerEl:e}=getRefs();e.addEventListener("click",(async function(e){if(!e.target.classList.contains("see-more-btn"))return;const t=e.target.dataset.id,o=await fetchSelectedBooks(t);renderMainTitle(t);const c=document.querySelectorAll(".category-btn"),a=document.querySelector(".active-category");for(const e of c)e.dataset.id===t&&e.classList.add("active-category");a.classList.remove("active-category"),renderBooksByCategory(o),scrollToTop()}));
-//# sourceMappingURL=index.bc6ceb9a.js.map
