@@ -89,13 +89,13 @@
     // background-image: url(../src/images/book-shop-min.png);
 }
 
-@media screen and (min-width: $mobile),
-screen and (min-resolution: 192dpi) and (min-width: $mobile),
-screen and (min-resolution: 2dppx) and (min-width: $mobile) {
-    .mobile-menu__container::before {
-        // background-image: url(../src/images/book-shop-min.png);
-    }
-}
+// @media screen and (min-width: $mobile),
+// screen and (min-resolution: 192dpi) and (min-width: $mobile),
+// screen and (min-resolution: 2dppx) and (min-width: $mobile) {
+//     .mobile-menu__container::before {
+//         background-image: url(../src/images/book-shop-min.png);
+//     }
+// }
 
 @media screen and (min-width: $tablet) {
     .mobile-menu__container {
