@@ -1,4 +1,4 @@
-import './js/back-to-top';
+// import './js/back-to-top';
 import './js/allBooksMarkup';
 import './js/bestsellers';
 import './js/fetchBooks';
