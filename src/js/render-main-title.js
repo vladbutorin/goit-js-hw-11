@@ -2,7 +2,7 @@ import getRefs from './refs';
 const { mainTitle } = getRefs();
 
 export function renderMainTitle(id) {
-  //
+
   const allWordsButLast = id.split(' ').slice(0, -1).join(' ');
 
   const words = id.split(' ');

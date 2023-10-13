@@ -5879,7 +5879,6 @@ var _refs = require("./refs");
 var _refsDefault = parcelHelpers.interopDefault(_refs);
 const { mainTitle  } = (0, _refsDefault.default)();
 function renderMainTitle(id) {
-    //
     const allWordsButLast = id.split(" ").slice(0, -1).join(" ");
     const words = id.split(" ");
     const lastWord = words[words.length - 1];
