@@ -1,6 +1,6 @@
-// import getTopBooksArray from './fetchBooks';
-// import { createBookMarkup } from './oneBookMarkup';
-// import getRefs from './refs.js';
+import getTopBooksArray from './fetchBooks';
+import { createBookMarkup } from './oneBookMarkup';
+import getRefs from './refs.js';
 
 // const { renderingContainer } = getRefs();
 
