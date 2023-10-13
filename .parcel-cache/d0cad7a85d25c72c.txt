@@ -1,4 +1,4 @@
-5173
+5172
 74C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\is-binary-path\readme.md133404977910207061 0
 99C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node133404977918562057 0
 72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\dom-serializer\lib\esm133410873226146597 1
@@ -6,7 +6,7 @@
 72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\domelementtype\LICENSE133404977908881919 0
 49C:\Users\vladb\Desktop\goit-js-hw-11\README.uk.md133416670339089387 0
 88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-grid.js133404977917835648 0
-60C:\Users\vladb\Desktop\goit-js-hw-11\src\js\oneBookMarkup.js133416894372767578 0
+60C:\Users\vladb\Desktop\goit-js-hw-11\src\js\oneBookMarkup.js133416901115791541 0
 93C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\entities\lib\generated\decode-data-xml.d.ts133404977912722779 0
 44C:\Users\vladb\Desktop\goit-js-hw-11\.github133416670339028928 1
 109C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\files\embed\embed2133410873249744220 1
@@ -57,10 +57,6 @@
 48C:\Users\vladb\Desktop\goit-js-hw-11\.prettierrc133416670339089387 0
 83C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\Block.js133404977911156921 0
 90C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\type-fest\source\fixed-length-array.d.ts133404977912023615 0
-68C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\globals\index.d.ts133404977910581410 0
-67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\buffer\index.d.ts133404995368579624 0
-97C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\package.json133404977910531559 0
-55C:\Users\vladb\Desktop\goit-js-hw-11\src\bestsellars.js133416896434487988 0
 84C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\type-fest\source\set-required.d.ts133404977913558112 0
 67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\semver\bin\semver133404977909258472 0
 95C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\canvas-blending.js133404977916966397 0
@@ -100,7 +96,12 @@
 97C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\.circleci\config.yml133404977915985073 0
 84C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\svgo\plugins\convertShapeToPath.js133404977912486829 0
 49C:\Users\vladb\Desktop\goit-js-hw-11\package.json133416670339340028 0
-57C:\Users\vladb\Desktop\goit-js-hw-11\src\js\fetchBooks.js133416894998331258 0
+69C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\notiflix\index.d.ts133404995725106214 0
+88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\simplelightbox\dist\simple-lightbox.js133404994377552717 0
+94C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-snappoints.js133404977918412460 0
+73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\fs\src\types.js133404977911508137 0
+51C:\Users\vladb\Desktop\goit-js-hw-11\src\js\refs.js133416895343734106 0
+57C:\Users\vladb\Desktop\goit-js-hw-11\src\js\fetchBooks.js133416901050852479 0
 49C:\Users\vladb\Desktop\goit-js-hw-11\README.en.md133416670339089387 0
 84C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\midi.js133404977921373503 0
 61C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\lmdb\mod.ts133404977917621372 0
@@ -143,7 +144,7 @@
 81C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\regions\IR.js133404977920652174 0
 67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\lmdb\util\when.js133404977917501702 0
 85C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\axios\lib\helpers\formDataToJSON.js133404995274652467 0
-40C:\Users\vladb\Desktop\goit-js-hw-11\src133416876711649116 1
+40C:\Users\vladb\Desktop\goit-js-hw-11\src133416900879894069 1
 71C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\svgo\plugins\_path.js133404977910541531 0
 104C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133404977909586605 0
 73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\escalade\dist\index.mjs133404977910551506 0
@@ -174,7 +175,7 @@
 67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data133410873195202104 1
 76C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\react-refresh\package.json133404977911016433 0
 73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\terser\lib\transform.js133404977915965123 0
-49C:\Users\vladb\Desktop\goit-js-hw-11\src\index.js133416881643270094 0
+49C:\Users\vladb\Desktop\goit-js-hw-11\src\index.js133416899365845894 0
 80C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\svgo\plugins\removeMetadata.js133404977915811030 0
 68C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\yaml\dist\types.js133404977914057348 0
 71C:\Users\vladb\Desktop\goit-js-hw-11\src\sass\color-schemes\_light.scss133416697878580466 0
@@ -323,12 +324,12 @@
 86C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\htmlnano\docs\docs\060-contribute.md133404977916141642 0
 83C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\posthtml-expressions\changelog.md133404977911127003 0
 94C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\LICENSE133404977908881919 0
-61C:\Users\vladb\Desktop\goit-js-hw-11\src\js\allBooksMarkup.js133416877653625026 0
+61C:\Users\vladb\Desktop\goit-js-hw-11\src\js\allBooksMarkup.js133416900967368174 0
 73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\color-name\package.json133404977908881919 0
 82C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\axios\lib\platform\node\index.js133404995274652467 0
 91C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\reporter-dev-server\src\templates133410873175026348 1
-64C:\Users\vladb\Desktop\goit-js-hw-11\src\js\render-main-title.js133416880114073494 0
-58C:\Users\vladb\Desktop\goit-js-hw-11\src\js\back-to-top.js133416877558624460 0
+64C:\Users\vladb\Desktop\goit-js-hw-11\src\js\render-main-title.js133416901191488039 0
+58C:\Users\vladb\Desktop\goit-js-hw-11\src\js\back-to-top.js133416901012638109 0
 72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\yaml\browser\schema.js133404977913627931 0
 71C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\entities\package.json133404977911623302 0
 59C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\base64-js133410873193952402 1
@@ -341,7 +342,7 @@
 88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\type-fest\source\iterable-element.d.ts133404977912233829 0
 65C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\fastq\README.md133404977910963618 0
 105C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133404977915915259 0
-58C:\Users\vladb\Desktop\goit-js-hw-11\src\js\bestsellers.js133416893861072308 0
+58C:\Users\vladb\Desktop\goit-js-hw-11\src\js\bestsellers.js133416900695262077 0
 62C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\yaml\pair.js133404977912112041 0
 82C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\htmlnano\lib\modules\minifyJs.js133404977912228879 0
 80C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\core\src\serializer.js133404977917511676 0
@@ -351,13 +352,8 @@
 89C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\xhtmlsmil.js133404977922712316 0
 80C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\node-resolver-core\lib133410873168769880 1
 90C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133404977917076108 0
-65C:\Users\vladb\Desktop\goit-js-hw-11\src\js\fetchSelectedBooks.js133416879044738499 0
-69C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\notiflix\index.d.ts133404995725106214 0
-88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\simplelightbox\dist\simple-lightbox.js133404994377552717 0
-94C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-snappoints.js133404977918412460 0
-73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\fs\src\types.js133404977911508137 0
-51C:\Users\vladb\Desktop\goit-js-hw-11\src\js\refs.js133416895343734106 0
-69C:\Users\vladb\Desktop\goit-js-hw-11\src\js\renderSelectedCategory.js133416881088388067 0
+65C:\Users\vladb\Desktop\goit-js-hw-11\src\js\fetchSelectedBooks.js133416901080889192 0
+69C:\Users\vladb\Desktop\goit-js-hw-11\src\js\renderSelectedCategory.js133416901222803514 0
 76C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\binary-extensions\index.js133404977909258472 0
 97C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133404977917076108 0
 80C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\yaml\dist\Document-9b4560a1.js133404977910247697 0
@@ -367,7 +363,7 @@
 88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\core\test\EntryRequest.test.js133404977916141642 0
 79C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\escape-string-regexp\index.js133404977909258472 0
 81C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\regions\MZ.js133404977921457499 0
-54C:\Users\vladb\Desktop\goit-js-hw-11\src\js\seeMore.js133416881332987451 0
+54C:\Users\vladb\Desktop\goit-js-hw-11\src\js\seeMore.js133416901256508414 0
 73C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\node-fetch\src\index.js133404996463946252 0
 62C:\Users\vladb\Desktop\goit-js-hw-11\src\images\amazon-min.png133416670339400508 0
 70C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\web-streams-polyfill133404996466298799 1
@@ -558,6 +554,7 @@
 88C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\chrome-trace-event\dist\trace-event.js133404977909053283 0
 96C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133404977918562057 0
 95C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\posthtml\node_modules\posthtml-parser\license133404977908881919 0
+58C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\csso\lib133410873224428250 1
 61C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\buffer-from133410873194889679 1
 76C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\dotenv-expand\package.json133404977908881919 0
 55C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\json5133410873237084250 1
@@ -893,8 +890,8 @@
 82C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@jridgewell\source-map\README.md133404977910963618 0
 61C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\safe-buffer133410873255367893 1
 93C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@parcel\workers\test\integration\workerfarm133410873184889265 1
-72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\ordered-binary\LICENSE133404977908881919 0
 54C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\sass133410873255524098 1
+72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\ordered-binary\LICENSE133404977908881919 0
 56C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\semver133410873256617592 1
 77C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\supports-color\package.json133404977909802889 0
 80C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\nth-check\lib\esm\compile.d.ts133404977912622496 0
@@ -2854,6 +2851,8 @@
 89C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\css-tree\lib\syntax\atrule\font-face.js133404977915620445 0
 83C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\htmlnano\docs\docs\040-presets.md133404977915985073 0
 70C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\globals\globals.json133404977909792916 0
+68C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\globals\index.d.ts133404977910581410 0
+67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\buffer\index.d.ts133404995368579624 0
 66C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\globals\index.js133404977909258472 0
 65C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\buffer\index.js133404995368423388 0
 81C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\caniuse-lite\data\regions\IE.js133404977920106230 0
@@ -3079,7 +3078,6 @@
 77C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\delayed-stream\package.json133404995274339992 0
 86C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\delayed-stream\lib\delayed_stream.js133404995274339992 0
 72C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\data-uri-to-buffer\src133404996463946252 1
-58C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\csso\lib133410873224428250 1
 62C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\csso\LICENSE133404977908881919 0
 67C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\csso\package.json133404977915772852 0
 78C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\axios\lib\adapters\README.md133404995274964878 0
@@ -5136,6 +5134,7 @@
 100C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133404977909258472 0
 79C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\highlight\lib\index.js133404977909762982 0
 92C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\LICENSE133404977908881919 0
+97C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\package.json133404977910531559 0
 92C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\scripts133410873154549755 1
 102C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\lib\identifier.js133404977909772967 0
 97C:\Users\vladb\Desktop\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\lib\index.js133404977910049022 0
