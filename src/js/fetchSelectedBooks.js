@@ -1,4 +1,4 @@
-// import axios from 'axios';
+import axios from 'axios';
 import Notiflix from 'notiflix';
 
 export async function fetchSelectedBooks(category) {
@@ -8,16 +8,16 @@ export async function fetchSelectedBooks(category) {
       `https://books-backend.p.goit.global/books/category?category=${category}`
     );
     const data = await response.json();
-    // console.log(data);
+    console.log(data);
     Notiflix.Loading.remove();
     return data;
   };
   try {
-    // const { data } = await axios.get(
-    //   `https://books-backend.p.goit.global/books/category?category=${category}`
-    // );
+    const { data } = await axios.get(
+      `https://books-backend.p.goit.global/books/category?category=${category}`
+    );
     Notiflix.Loading.remove();
-    // return data;
+    return data;
     return categoriesArray(category);
   } catch (error) {
     Notiflix.Loading.remove();

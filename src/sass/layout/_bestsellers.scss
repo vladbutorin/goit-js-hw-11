@@ -4,6 +4,7 @@
 }
 
 .category-blocks-list {
+    padding-left: 420px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -65,9 +66,9 @@
 
 .book-image {
     object-fit: fill;
-    // width: 335px;
+    width: 100%;
 
-    min-width: 335px;
+    // min-width: 335px;
     height: 485px;
 
     @media screen and (min-width: $tablet) {
