@@ -31,3 +31,7 @@
         @include flex-basis(5, var(--gap));
     }
 }
+
+.home-container {
+    padding-left: 420px;
+}
