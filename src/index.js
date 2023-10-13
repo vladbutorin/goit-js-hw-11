@@ -1,162 +1,45 @@
-// import axios from 'axios';
-// import Notiflix from 'notiflix';
-// import SimpleLightbox from 'simplelightbox';
-// import 'simplelightbox/dist/simple-lightbox.min.css';
-
-// const searchForm = document.getElementById('search-form');
-// const gallery = document.querySelector('.gallery');
-// const KEY = '39758171-454faa2ce1768c54f925ff819';
-
-// let query = '';
-// let page = 1;
-// let simpleLightBox = new SimpleLightbox('.gallery a');
-// let allPagesLoaded = false;
-// const perPage = 40;
-
-// searchForm.addEventListener('submit', onSearchForm);
-
-// function renderGallery(images) {
-//   if (!gallery) {
-//     return;
-//   }
-
-//   const markup = images
-//     .map(image => {
-//       const { id, largeImageURL, webformatURL, tags, likes, views, comments, downloads, } = image;
-//       return `
-//         <a class="gallery__link" href="${largeImageURL}">
-//           <div class="gallery-item" id="${id}">
-//             <img class="gallery-item__img" src="${webformatURL}" alt="${tags}" loading="lazy" />
-//             <div class="info">
-//               <p class="info-item"><b>Likes</b>${likes}</p>
-//               <p class="info-item"><b>Views</b>${views}</p>
-//               <p class="info-item"><b>Comments</b>${comments}</p>
-//               <p class="info-item"><b>Downloads</b>${downloads}</p>
-//             </div>
-//           </div>
-//         </a>
-//       `;
-//     })
-//     .join('');
-
-//   gallery.insertAdjacentHTML('beforeend', markup);
-// }
-// function onSearchForm(e) {
-//   e.preventDefault();
-//   page = 1;
-//   query = e.currentTarget.elements.searchQuery.value.trim();
-//   allPagesLoaded = false;
-//   gallery.innerHTML = '';
-
-//   if (query === '') {
-//     Notiflix.Notify.failure(
-//       'The search string cannot be empty. Please specify your search query.',
-//     );
-//     return;
-//   }
-
-//   fetchImages(query, page, perPage)
-//     .then(data => {
-//       if (data.totalHits === 0) {
-//         Notiflix.Notify.failure(
-//           'Sorry, there are no images matching your search query. Please try again.',
-//         );
-//       } else {
-//         renderGallery(data.hits);
-//         const totalPages = Math.ceil(data.totalHits / perPage);
-
-//         if (page >= totalPages) {
-//           allPagesLoaded = true;
-//         }
-//         simpleLightBox.refresh();
-//         Notiflix.Notify.success(`Hooray! We found ${data.totalHits} images.`);
-//       }
-//     })
-//     .catch(error => console.log(error))
-//     .finally(() => {
-//       searchForm.reset();
-//     });
-// }
-
-// function onloadMore() {
-//   if (allPagesLoaded) {
-//     return;
-//   }
-//   page += 1;
-
-//   fetchImages(query, page, perPage)
-//     .then(data => {
-//       if (data.hits.length === 0) {
-//         allPagesLoaded = true;
-//       } else {
-//         renderGallery(data.hits);
-//         simpleLightBox.refresh();
-
-//         const totalPages = Math.ceil(data.totalHits / perPage);
-
-//         if (page >= totalPages) {
-//           allPagesLoaded = true;
-//           Notiflix.Notify.failure(
-//             "We're sorry, but you've reached the end of search results.",
-//           );
-//         }
-
-//       }
-//     })
-//     .catch(error => console.log(error));
-// }
+import './js/back-to-top';
+import './js/allBooksMarkup';
+import './js/bestsellers';
+import './js/fetchBooks';
+import './js/fetchSelectedBooks.js';
+import './js/oneBookMarkup';
+import './js/refs';
+import './js/render-main-title';
+import './js/renderSelectedCategory';
+import './js/seeMore.js';
 
 
-// function checkIfEndOfPage() {
-//   return (
-//     window.innerHeight + window.scrollY >=
-//     document.documentElement.scrollHeight
-//   );
-// }
+// import './js/header-height-adjust.js';
+// import './js/color-scheme-switcher.js';
+// import './js/burger-mobile.js';
 
-// function showLoadMorePage() {
-//   if (checkIfEndOfPage()) {
-//     onloadMore();
-//   }
-// }
+// // Fetch
+// 
+// import './js/components/spinner.js';
 
-// window.addEventListener('scroll', showLoadMorePage);
+// // Sidebar
+// // Category selection menu
+// import './js/categories-menu/renderCategoriesList.js';
+// import './js/categories-menu/activeCatBtnSwitcher.js';
+// import './js/categories-menu/handleCategoryClick.js';
 
-// arrowTop.onclick = function () {
-//   window.scrollTo({ top: 0, behavior: 'smooth' });
-// };
 
-// window.addEventListener('scroll', function () {
-//   arrowTop.hidden = scrollY < document.documentElement.clientHeight;
-// });
+// // Support Ukraine block
+// import './js/support-ukraine/support.js';
 
-// axios.defaults.baseURL = 'https://pixabay.com/api/';
-// axios.interceptors.response.use(
-//   response => {
-//     return response;
-//   },
-//   error => {
-//     Notiflix.Notify.failure('Something went wrong. Please try again later.');
-//     return Promise.reject(error);
-//   },
-// );
+// // Content part
+// 
+// 
 
-// async function fetchImages(query, page, perPage) {
-//   const response = await axios.get(
-//     `?key=${KEY}&q=${query}&image_type=photo&orientation=horizontal&safesearch=true&page=${page}&per_page=${perPage}`,
-//   );
-//   return response.data;
-// }
+// // Modal - popup
+// import './js/modal-popup/modal.js';
 
-// SmoothScroll({
-//   animationTime: 800,
-//   stepSize: 75,
-//   accelerationDelta: 30,
-//   accelerationMax: 2,
-//   keyboardSupport: true,
-//   arrowScroll: 50,
-//   pulseAlgorithm: true,
-//   pulseScale: 4,
-//   pulseNormalize: 1,
-//   touchpadSupport: true,
-// })
+// // Authorization
+// import './js/firebase/firebase';
+// import './js/firebase/authservice';
+// import './js/firebase/firebaseservise';
+
+// import './js/modal-login/form-validator.js';
+
+// // Scroll-to-top button
